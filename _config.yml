@@ -85,8 +85,8 @@ author:
   bio              : "Research Assistant at the Music Imaging and Neural Dynamics lab"
   location         : "Boston"
   employer         : "MIND Lab"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "benson.p@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
