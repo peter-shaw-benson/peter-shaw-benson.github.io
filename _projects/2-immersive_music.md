@@ -7,6 +7,7 @@ collection: portfolio
 In this unique creative project, I collaborated with two students from New England Conservatory – Arun Asthagiri and Zach Fung. 
 We submitted [this](https://www.youtube.com/watch?v=kSAJFQZPEN4&t=117s) short video to the 2023 Goodmesh Concours art competition with the theme of "Full Moon". 
 This art piece is a fully-responsive, highly adaptable visualization of Zach's performance of "Sabina" by Andrew Norman. 
+
 When I first heard Zach perform "Sabina", I fell deeply in love with the piece, and wanted to help him make the most of it. 
 We used the popular framework for graphics processing known as "Processing", or "P5.js" on the web. 
 For this project, Arun created the visualization, while I helped integrate the audio input with the visual output. 
