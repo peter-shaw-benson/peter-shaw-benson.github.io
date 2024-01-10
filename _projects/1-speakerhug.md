@@ -1,7 +1,7 @@
 ---
 title: "speakerhug"
 excerpt: "Manager of a Boston shoegaze band:<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: projects
 ---
 
 In Spring 2023, I managed the Boston shoegaze band "speakerhug". 
