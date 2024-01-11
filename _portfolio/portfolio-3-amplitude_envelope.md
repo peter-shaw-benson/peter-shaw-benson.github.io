@@ -4,3 +4,4 @@ excerpt: "How do low-level auditory features affect perception of sound source? 
 collection: portfolio
 ---
 
+The full poster can be found here:
