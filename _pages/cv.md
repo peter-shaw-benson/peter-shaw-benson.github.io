@@ -69,6 +69,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Conferences
+======
+* "Amplitude Envelope and Intentionality," 19th NeuroMusic Conference 2023: Rhythmn, Expectation And Emotion. McMaster University, Hamilton, ON, October 2023.
+* "Predictive Coding in Musical Anhedonia: A Study of Groove," 19th NeuroMusic Conference 2023: Rhythmn, Expectation And Emotion. McMaster University, Hamilton, ON, October 2023. 
+
 Extracurricular Involvement
 ======
 * Sep 2021 - Present: **Green Line Records**
