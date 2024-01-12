@@ -1,6 +1,6 @@
 ---
 title: "Green Line Records"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects/girlband.png'>"
+excerpt: "Head of Recording for Student-run Record Label<br/><img src='/images/projects/girlband.png'>"
 collection: portfolio
 ---
 

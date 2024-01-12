@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 The full poster can be found here:
-[Predictive Coding in Musical Anhedonia: A Study of Groove]("files/Groove Poster.pdf")
+[Predictive Coding in Musical Anhedonia: A Study of Groove](files/Groove Poster.pdf)
 
 The preprint can be found here:
 [Predictive Coding in Musical Anhedonia: A Study of Groove](https://doi.org/10.31234/osf.io/93pbq)
