@@ -1,6 +1,6 @@
 ---
 title: "Amplitude Envelope and Intentionality"
-excerpt: "How do low-level auditory features affect perception of sound source? <br/><img src='/files/Amplitude Envelope Poster2.pdf'>"
+excerpt: "How do low-level auditory features affect perception of sound source? <br/><img src='/photos/portfolio/Amplitude Envelope Poster2-1.png'>"
 collection: portfolio
 ---
 

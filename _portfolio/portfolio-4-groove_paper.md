@@ -1,13 +1,13 @@
 ---
 title: "Groove and Musical Anhedonia"
-excerpt: "How does individual musical reward sensitivity affect individual desire to move to music? <br/><img src='/files/Groove Poster.pdf'>"
+excerpt: "How does individual musical reward sensitivity affect individual desire to move to music? <br/><img src='/photos/portfolio/Groove Poster-1.png'>"
 collection: portfolio
 ---
 
 In 2023, I led a project performing a secondary analysis on a study previously conducted in the MIND Lab.
 I analyzed the effect of individual musical reward sensitivity on experiences of groove and enjoyment of rhythmically complex stimuli.
 
-I presented these findings at the 2023 Neuromusic Conference at McMaster University. 
+I presented these findings at the 2023 Neuromusic Conference at McMaster University.
 This project also resulted in a paper, which can be found at the bottom of this page.
 
 *Abstract (as submitted to Neuromusic)*:

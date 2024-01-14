@@ -1,6 +1,6 @@
 ---
 title: "Narrative in Music: Northeastern Senior Capstone"
-excerpt: "Capstone Project relating Musical Features to participant-generated narratives <br/><img src='/images/500x300.png'>"
+excerpt: "Capstone Project relating Musical Features to participant-generated narratives <br/>"
 collection: portfolio
 ---
 
@@ -11,4 +11,4 @@ Theses studies have shown that there is a considerable degree of consensus betwe
 Furthermore, attributes of these narratives are affected by individual personality traits (such as absorption in music and Big Five personality traits).
 
 However, existing studies have not investigated the link between musical features of the excerpts and the imagined narratives.
-In this project, I will be using Music Information Retrieval and Natural Language Processing to investigate the emergence of consensus narratives during studies of imagined narratives. 
+In this project, I will be using Music Information Retrieval and Natural Language Processing to investigate the emergence of consensus narratives during studies of imagined narratives.
