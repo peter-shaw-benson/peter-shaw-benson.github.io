@@ -19,3 +19,12 @@ Both experiments found that amplitude modulation was significantly related to pe
 
 The full poster can be found here:
 [Amplitude Envelope and Intentionality](files/Amplitude Envelope Poster2.pdf)
+
+[Amplitude Envelope and Intentionality](https://peter-shaw-benson.github.io/files/Amplitude Envelope Poster2.pdf)
+
+
+<a href="files/Amplitude Envelope Poster2.pdf">Download Poster</a>
+
+[Amplitude Envelope and Intentionality]({{https://peter-shaw-benson.github.io}}{ % files/Amplitude Envelope Poster2.pdf % })
+
+[Amplitude Envelope and Intentionality]({{https://peter-shaw-benson.github.io}}{files/Amplitude Envelope Poster2.pdf})
