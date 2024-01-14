@@ -4,7 +4,7 @@ excerpt: "Prototype of a Naval Combat Game<br/><img src='/images/projects/ships.
 collection: projects
 ---
 
-*GitHub Link*: https://github.com/peter-shaw-benson/naval-game
+*GitHub Link*: [https://github.com/peter-shaw-benson/naval-game](https://github.com/peter-shaw-benson/naval-game)
 
 I have always been fascinated with history, particularly influenced by my AP US History class, Dan Carlin's podcst "Hardcore History", and my current favorite, Everett Rummage's "Age of Napoleon" podcast.
 When I found Montemayor's video series, ["The Battle of Midway 1942: Told from the Japanese Perspective (1/3)"](https://www.youtube.com/watch?v=Bd8_vO5zrjo), I became fascinated by naval history.
