@@ -1,6 +1,6 @@
 ---
 title: "Groove and Musical Anhedonia"
-excerpt: "How does individual musical reward sensitivity affect individual desire to move to music? <br/><img src='/photos/portfolio/Groove Poster-1.png'>"
+excerpt: "How does individual musical reward sensitivity affect individual desire to move to music? <br/><img src='/photos/portfolio/groove_poster.png'>"
 collection: portfolio
 ---
 
@@ -19,7 +19,7 @@ Here, we explored the relationship between individual differences in music rewar
 Across our entire sample, there was a significant positive relationship between music reward sensitivity and pleasure ratings that was strongest in response to highly complex stimuli, whereas move ratings were predicted by sensorimotor subscale even after controlling for all other subscales of musical reward. Results highlight the multidimensional nature of musical reward and suggest that pleasure and wanting to move are driven by separate but separable mechanisms that vary by stimulus complexity.
 
 The full poster can be found here:
-[Predictive Coding in Musical Anhedonia: A Study of Groove](files/Groove Poster.pdf)
+[Predictive Coding in Musical Anhedonia: A Study of Groove](https://peter-shaw-benson.github.io/files/Groove Poster.pdf)
 
 The preprint can be found here:
 [Predictive Coding in Musical Anhedonia: A Study of Groove](https://doi.org/10.31234/osf.io/93pbq)
