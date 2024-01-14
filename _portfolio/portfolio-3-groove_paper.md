@@ -1,6 +1,6 @@
 ---
 title: "Groove and Musical Anhedonia"
-excerpt: "How does individual musical reward sensitivity affect individual desire to move to music? <br/><img src='/photos/portfolio/groove_poster.png'>"
+excerpt: "How does individual musical reward sensitivity affect individual desire to move to music? <br/><img src='/images/portfolio/groove_poster.png'>"
 collection: portfolio
 ---
 
