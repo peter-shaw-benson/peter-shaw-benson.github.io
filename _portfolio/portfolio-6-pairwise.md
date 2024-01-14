@@ -18,4 +18,4 @@ to musical features – in this case, I mapped the orientation to the cutoff of 
 I performed with this device at the end of the class to Daft Punk's song "One More Time".
 
 The full write-up can be found here:
-[Pairwise: A Novel Interface for Dance Performance and Social Engagement](https://peter-shaw-benson.github.io/files/Pairwise__A_Novel_Interface_for_Dance_Performance_and_Social_Engagement.pdf")
+[Pairwise: A Novel Interface for Dance Performance and Social Engagement](https://peter-shaw-benson.github.io/files/Pairwise__A_Novel_Interface_for_Dance_Performance_and_Social_Engagement.pdf)
